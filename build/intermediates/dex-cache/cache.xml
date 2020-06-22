@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/3b4e589d3a2a50ae193f3a904d92cb965589001d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_2e3dbc2342652f069acf224706df3e0629e13b2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/9013366595b71ca14b6224577163929fd1d183d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_a79842c2b6b62ebd90fcd7f2aa1bfef317386928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/82f27d9e03eab0f8b0fba553189385100ba0b2b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_8265f803b414aeba2f21f0ae16480931365015f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/da39349427d796d63457dc361a95e9b6188ac6b5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_5465ee80e94741e7d4e9d7d34e35ed1548ec2655.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/92b8a4df378d4145017a7467b392edac556c8d90/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_8b13011c0036bb50f5a59831cfa2a1ccd2aa5d8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_f77f5d10c3567f2e8b1e6790ef8496a2b285f84e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/51afa356ff6eac1fe35b1800b7d144f8aa1ce9b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_4c1dd5e296e2c06a23b3d50c538d04dfbb85b4b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/fbf465ddc0974032d51437054975f44397cea2a9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_77f3f8fec1775d50784f8a8337f8c6d2122ab061.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/common-1.0.0_1522a6163c08dcba12c9885504f62e7bb70c065e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/722809f25e5918f6becee54116b1f400eb5749cc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_d508c345a9613ddf52bf407973567a8abecfa3b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/e15f21a2239347d96d3396a21fa644919eaeef4f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_ca9da367c86ebc66e0c719c7661b650691c060fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/common-1.0.0_a2026206c47d64ce18653407a0a703eb43f3d626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/01948548be14fe56d252d02821099c08c30bdaa8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_cebbdfbcd7358569b9ac2f9c287960b017c51921.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.3/bde0667d7414c16ed62d3cfe993cff7f9d732373/constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.1.3_20b5f38d2f0467e2ec7bcb4544d349368d477a16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/luis/.android/build-cache/cf0b3348a4edcb83bb8087d712c66f264b290b50/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/luis/AndroidStudioProjects/PokemonApp/app/build/intermediates/pre-dexed/debug/classes_38a672c8bae4c1043cbd7bbab74dfba150d52e91.jar" />
+    </item>
+
+</items>
